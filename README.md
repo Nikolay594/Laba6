@@ -31,9 +31,7 @@ int main() {
 
     scanf("%lf %lf", &x, &y);
 
-    if (x >= 2 && x <= 6 && 
-        x * x + y * y <= 36 && 
-        x * x + y * y >= 16) {
+    if (x >= 2.0 && x*x + y*y <= 36.0) {
         printf("YES");
     } else {
         printf("NO");
