@@ -18,9 +18,7 @@
 7. Завершить программу.
 
 # Блок-схема
-
-<img width="1420" height="1108" alt="gost-flowchart" src="https://github.com/user-attachments/assets/6c49b27f-9f46-42e8-87ea-7c139378e332" />
-
+<img width="327" height="412" alt="Диаграмма без названия" src="https://github.com/user-attachments/assets/07d61683-c6cb-4cf9-b34a-c3c59f536248" />
 
 # 2. Реализация программы
 Программа реализована на C
