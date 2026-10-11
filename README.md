@@ -1,6 +1,8 @@
 # HomeWork Laba5
 ### Домашняя работа (Условие)
-17. <img width="378" height="277" alt="Screenshot 2026-10-11 194517" src="https://github.com/user-attachments/assets/d0bef5d1-cfa6-474c-80d1-f596366ab0f6" />
+17.
+
+<img width="378" height="277" alt="Screenshot 2026-10-11 194517" src="https://github.com/user-attachments/assets/d0bef5d1-cfa6-474c-80d1-f596366ab0f6" />
 <img width="758" height="123" alt="Screenshot 2026-10-11 194522" src="https://github.com/user-attachments/assets/11bc18d5-e5fb-45d7-926a-d69718b526a3" />
 
 
