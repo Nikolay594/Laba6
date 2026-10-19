@@ -18,7 +18,8 @@
 7. Завершить программу.
 
 # Блок-схема
-<img width="327" height="412" alt="Диаграмма без названия" src="https://github.com/user-attachments/assets/07d61683-c6cb-4cf9-b34a-c3c59f536248" />
+<img width="327" height="412" alt="Диаграмма без названия" src="https://github.com/user-attachments/assets/2feeca09-2141-4d20-909a-d1ef38e05196" />
+
 
 # 2. Реализация программы
 Программа реализована на C
