@@ -1,4 +1,4 @@
-# HomeWork Laba5
+# HomeWork Laba6
 ### Домашняя работа (Условие)
 17.
 
